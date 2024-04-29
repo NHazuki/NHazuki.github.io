@@ -3,4 +3,4 @@
 # Welcome to Nayu's little website
 
 
-![art](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrKXjIq0DW8NWGKPJPwil4AVC0n8DEnlQPA&s)
+![art](https://hips.hearstapps.com/hmg-prod/images/blueberries-1527711083.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*)
