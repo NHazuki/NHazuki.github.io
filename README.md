@@ -1,7 +1,7 @@
 # Welcome to Nayu's little website
 
 ## Check List
-- [x] Github account
+[x] Github account
 - [x] New repository with accname.github.io
 - [x] First name
 - [x] Image
