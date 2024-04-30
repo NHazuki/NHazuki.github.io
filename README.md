@@ -3,15 +3,15 @@
 # Welcome to Nayu's little website
 
 ## Check List
-- [x] Github account
-- [x] New repository with accname.github.io
-- [x] First name
-- [x] Image
-- [x] repositry x2
-- [x] link to Hellow Worl website
-- [x] add to index.html of hello world
+- [x] make a Github account
+- [x] add a header to my page
+- [x] add an image banner
+- [x] make repository for home page
+- [x] make repository for hello world
+- [x] add a link to Hellow Worl website
+- [x] add to index.html of hello world website
+- [ ] add a color to hello world website
 
 [Hello World](https://nhazuki.github.io/HelloWorld/)
 
-![blueberry](https://hips.hearstapps.com/hmg-prod/images/blueberries-1527711083.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*)
 
