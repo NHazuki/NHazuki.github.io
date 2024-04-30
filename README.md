@@ -7,6 +7,9 @@
 - [x] New repository with accname.github.io
 - [x] First name
 - [x] Image
+- [x] repositry x2
+- [x] link to Hellow Worl website
+- [x] add to index.html of hello world
 
 [Hello World](https://nhazuki.github.io/HelloWorld/)
 
