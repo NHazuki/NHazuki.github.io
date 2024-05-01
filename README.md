@@ -10,7 +10,7 @@
 - [x] make repository for hello world
 - [x] add a link to Hellow Worl website
 - [x] add to index.html of hello world website
-- [ ] add a color to hello world website
+- [X] add a color to hello world website
 
 [Hello World](https://nhazuki.github.io/HelloWorld/)
 
