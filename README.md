@@ -11,8 +11,9 @@
 - [x] add a link to Hellow Worl website
 - [x] add to index.html of hello world website
 - [X] add a color to hello world website
-- [ ] add an image/s to your hello world page
-- [ ] add a hyperlink back to your main webpage on your hello world webpage
+- [x] add an image/s to your hello world page
+- [x] add a hyperlink back to your main webpage on your hello world webpage
+- [x] Add a css stylesheet to your html files. 
 
 [Hello World](https://nhazuki.github.io/HelloWorld/)
 
