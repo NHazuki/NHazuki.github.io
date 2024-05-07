@@ -17,4 +17,4 @@
 
 [Hello World](https://nhazuki.github.io/HelloWorld/)
 
-
+[C10 Rubric](https://nhazuki.github.io/html.index/)
