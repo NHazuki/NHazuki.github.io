@@ -15,6 +15,6 @@
 - [x] add a hyperlink back to your main webpage on your hello world webpage
 - [x] Add a css stylesheet to your html files. 
 
-[Hello World](https://nhazuki.github.io/HelloWorld/)
+[Japanese Soft Custard Pudding](https://nhazuki.github.io/Japanese-Soft-Custard-Pudding/)
 
 [C10 Rubric](https://nhazuki.github.io/html.index/)
