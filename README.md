@@ -17,4 +17,4 @@
 
 [Japanese Soft Custard Pudding](https://nhazuki.github.io/Japanese-Soft-Custard-Pudding/)
 
-[C10 Rubric](https://nhazuki.github.io/html.index/)
+[C10 Rubric](https://nhazuki.github.io/Rubric/)
