@@ -1,0 +1,64 @@
+.button {
+  border: none;
+  color: Wheat;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: Wheat; 
+  color: black; 
+  border: 2px solid Wheat;
+}
+
+.button1:hover {
+  background-color: BurlyWood;
+  color: white;
+  border: 2px solid Wheat;
+}
+
+h1{
+  background-color: BurlyWood;
+  color: Black;
+  font-family: Allura;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2{
+  font-family: Monaco;
+  font-size: 25px;
+}
+
+h3{
+  font-family: Monaco;
+  font-size: 20px;
+}
+
+dl{
+  font-family: Monaco;
+  font-size: 15px;
+}
+
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 50em;
+}
+
+div{
+  margin: 50px;
+}
+
+body {
+  background-image: url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2pvYjE4MzEtYmFja2dyb3VuZC10b24tMDAyLTA1ZS5qcGc.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
