@@ -27,13 +27,13 @@ h1{
   background-color: Wheat;
   color: Black;
   font-family: Allura;
-  font-size: 50px;
+  font-size: 50%;
   text-align: center;
 }
 
 h2{
   font-family: Monaco;
-  font-size: 25px;
+  font-size: 25%;
 }
 
 h3{
