@@ -1,13 +1,13 @@
 .button {
   border: none;
   color: Wheat;
-  padding: 1% 2%;
+  padding: 1vmin 2vmin;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-family: Garamond;
   font-size: 120%;
-  margin:  1%;
+  margin:  0.5vmin;
   transition-duration: 0.4s;
   cursor: pointer;
 }
