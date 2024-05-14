@@ -28,23 +28,23 @@ h1{
   background-color: Wheat;
   color: Black;
   font-family: Lucida Handwriting;
-  font-size: 250%;
+  font-size: 300%;
   text-align: center;
 }
 
 h2{
   font-family: Garamond;
-  font-size: 130%;
+  font-size: 150%;
 }
 
 h3{
   font-family: Garamond;
-  font-size: 115%;
+  font-size: 120%;
 }
 
 dl{
   font-family: Garamond;
-  font-size: 100%;
+  font-size: 120%;
 }
 
 .center-justified {
