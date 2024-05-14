@@ -27,23 +27,23 @@ h1{
   background-color: Wheat;
   color: Black;
   font-family: Allura;
-  font-size: 50%;
+  font-size: 250%;
   text-align: center;
 }
 
 h2{
   font-family: Monaco;
-  font-size: 25%;
+  font-size: 130%;
 }
 
 h3{
   font-family: Monaco;
-  font-size: 20px;
+  font-size: 115px;
 }
 
 dl{
   font-family: Monaco;
-  font-size: 20px;
+  font-size: 150px;
 }
 
 .center-justified {
