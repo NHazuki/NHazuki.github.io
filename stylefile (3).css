@@ -1,12 +1,13 @@
 .button {
   border: none;
   color: Wheat;
-  padding: 16px 32px;
+  padding: 1% 2%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  font-family: Garamond;
+  font-size: 120%;
+  margin:  2%;
   transition-duration: 0.4s;
   cursor: pointer;
 }
@@ -26,23 +27,23 @@
 h1{
   background-color: Wheat;
   color: Black;
-  font-family: Allura;
+  font-family: Lucida Handwriting;
   font-size: 250%;
   text-align: center;
 }
 
 h2{
-  font-family: Monaco;
+  font-family: Garamond;
   font-size: 130%;
 }
 
 h3{
-  font-family: Monaco;
+  font-family: Garamond;
   font-size: 115%;
 }
 
 dl{
-  font-family: Monaco;
+  font-family: Garamond;
   font-size: 100%;
 }
 
