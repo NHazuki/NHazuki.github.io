@@ -84,7 +84,7 @@ ul{
     padding: 0;
     overflow: hidden;
     background-color:Wheat;
-    background-image: linear-gradient(to bottom, PapayaWhip, Wheat, Tan);
+    background-image: linear-gradient(to bottom, #f2f2f2, PapayaWhip, Wheat, Tan);
     position: fixed;
     bottom: 0;
     width: 100%;
