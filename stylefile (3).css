@@ -13,13 +13,13 @@
 .button1 {
   background-color: rgb(245, 222, 179, 0);
   color: black; 
-  border: 1px solid Wheat;
+  border: 2px solid Wheat;
 }
 
 .button1:hover {
   background-color: Tan;
   color: white;
-  border: 1px solid Wheat;
+  border: 2px solid Wheat;
 }
 
 h1{
@@ -85,7 +85,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: linear-gradient(to bottom, rgb(245, 222, 179, 0), rgb(245, 222, 179, 1));
+    background-image: linear-gradient(to bottom, rgb(245, 222, 179, 0), rgb(240, 206, 142, 1));
     bottom: 0px;
     width: 100%;
     height: 7em;
