@@ -64,9 +64,11 @@ div{
   margin-top: 0.5em;
 }
 
-br{
-  font-size: 60%
+ol{
+  background-color: rgb(245, 222, 179, 0.5);
 }
+
+
 
 li{
   float: left;
@@ -84,6 +86,7 @@ ul{
     overflow: hidden;
     background-image: linear-gradient(to bottom, rgb(245, 222, 179, 0), rgb(245, 222, 179, 1));
     position: fixed;
+    bottom: 0;
     width: 100%;
     height: 7em;
 }
