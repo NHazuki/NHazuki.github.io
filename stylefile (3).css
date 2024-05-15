@@ -47,6 +47,12 @@ dl{
   font-size: 2vmin;
 }
 
+img{
+  margin-right: 1em;
+  margin: 1em;
+  margin-top: 1em;
+}
+
 .center-justified {
     margin: 0 auto;
     text-align: justify;
@@ -56,7 +62,7 @@ dl{
 div{
   margin: 1em;
   margin-left: 1em;
-  margin-top: 0em;
+  margin-top: 1em;
 }
 
 br{
