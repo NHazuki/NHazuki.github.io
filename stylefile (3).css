@@ -13,7 +13,7 @@
 }
 
 .button1 {
-  background-color: Wheat; 
+  display: block; 
   color: black; 
   border: 2px solid Wheat;
 }
