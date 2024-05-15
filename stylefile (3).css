@@ -77,6 +77,14 @@ li.dropdown{
   display: inline-block;
 }
 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: Wheat;
+    min-width: 160px;
+    bottom: 100%;
+}
+
 ul{
   list-style-type: none;
     margin: 0;
