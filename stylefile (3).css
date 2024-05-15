@@ -1,6 +1,4 @@
 .button {
-  border: none;
-  color: Wheat;
   padding: 5px 16px;
   text-align: center;
   text-decoration: none;
@@ -83,7 +81,6 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:Wheat;
     background-image: linear-gradient(to bottom, rgb(245, 222, 179, 0), rgb(245, 222, 179, 1));
     position: fixed;
     bottom: 0;
