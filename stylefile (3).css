@@ -13,6 +13,7 @@
 }
 
 .button1 {
+  background-color: rgb(245, 222, 179, 0);
   color: black; 
   border: 1px solid Wheat;
 }
@@ -83,7 +84,7 @@ ul{
     padding: 0;
     overflow: hidden;
     background-color:Wheat;
-    background-image: linear-gradient(to bottom, #e6e6e6, PapayaWhip, Wheat, Tan);
+    background-image: linear-gradient(to bottom, #e6e6e6, PapayaWhip, Wheat, Tan, transparent);
     position: fixed;
     bottom: 0;
     width: 100%;
