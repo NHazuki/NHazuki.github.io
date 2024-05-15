@@ -84,6 +84,7 @@ ul{
     padding: 0;
     overflow: hidden;
     background-color:Wheat;
+    background-image: linear-gradient(to bottom, Linen, SeaShell, OldLace, PapayaWhip, Wheat);
     position: fixed;
     bottom: 0;
     width: 100%;
