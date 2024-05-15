@@ -89,10 +89,12 @@ ul{
 }
 
 .disabled {
-  pointer-events: none;
   cursor: default;
   opacity: 0.5;
-  cursor: none;
+}
+
+div.ex1 {
+  pointer-events: none;
 }
 
 body {
