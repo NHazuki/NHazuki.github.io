@@ -88,7 +88,7 @@ ul{
     width: 100%;
 }
 
-disabled {
+.disabled {
   pointer-events: none;
   cursor: default;
   opacity: 0.5;
