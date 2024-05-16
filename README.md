@@ -4,6 +4,6 @@
 
 <button onclick="document.location= 'https://nhazuki.github.io/Fluffy-Pancake/'"; class="button bottun1";>Fluffy Pancakes</button>
 
-[Lemon Tart](https://nhazuki.github.io/Lemon-Tart/)
+[Custard Puding](https://nhazuki.github.io/Custard-Pudding/)
 
-[C10 Rubric](https://nhazuki.github.io/Rubric/)
+[Fondant au Chocolate](https://nhazuki.github.io/fondant-au-chocolate/)
