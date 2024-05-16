@@ -4,8 +4,9 @@
   text-decoration: none;
   display: inline-block;
   font-family: Lucida Handwriting;
-  font-size: 20px;
-  margin:  0.5vmin;
+  font-size: 15px;
+  padding: 0.5em 
+  margin:  0;
   transition-duration: 0.4s;
   text-align: center;
   cursor: pointer;
