@@ -23,19 +23,17 @@
   border: 2px solid Wheat;
 }
 
-h1{
+div.sticky {
+  position: sticky;
+  top: 0;
+  height: 5em;
+  background-color: Wheat;
+  width: 100%;
   text-shadow: 5px 5px 5px #bf935a;
   color: Black;
   font-family: Lucida Handwriting;
   font-size: 40px;
   text-align: center;
-}
-
-div.sticky {
-  position: sticky;
-  top: 0;
-  padding: 2em;
-  background-color: Wheat;
 }
 
 h2{
