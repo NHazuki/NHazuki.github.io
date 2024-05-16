@@ -26,7 +26,6 @@
 div.sticky {
   position: sticky;
   top: 0;
-  height: 5em;
   background-color: Wheat;
   width: 100%;
   text-align: center;
