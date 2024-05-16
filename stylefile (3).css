@@ -8,6 +8,7 @@
   margin:  0.5vmin;
   transition-duration: 0.4s;
   text-align: center;
+  cursor: pointer;
 }
 
 .button1 {
