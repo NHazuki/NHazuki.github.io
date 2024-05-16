@@ -33,6 +33,7 @@ div.sticky {
   font-size: 40px;
   text-shadow: 5px 5px 5px #bf935a;
   border-radius: 0;
+  width: 100%;
 }
 
 img{
