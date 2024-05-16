@@ -71,12 +71,16 @@ li{
   background-color: rgb(245, 222, 179, 0.5);
   }
 
+ul{
+  ist-style-position: inside;
+}
+
 li.dropdown{
   display: inline-block;
   bottom: 1px;
 }
 
-ul{
+first-ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -86,7 +90,6 @@ ul{
     bottom: 0px;
     width: 100%;
     height: 7em;
-    ist-style-position: inside;
 }
 
 .disabled {
