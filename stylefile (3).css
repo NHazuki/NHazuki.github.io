@@ -68,11 +68,11 @@ div{
 li{
   float: left;
   font-size: 23px;
-  background-color: rgb(245, 222, 179, 0.5);
   }
 
 ul{
   ist-style-position: inside;
+  background-color: rgb(245, 222, 179, 0.5);
 }
 
 li.dropdown{
