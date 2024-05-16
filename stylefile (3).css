@@ -8,7 +8,7 @@
   margin:  0.5vmin;
   transition-duration: 0.4s;
   text-align: center;
-  cursor: not-allowed;
+  cursor: pointer;
 }
 
 .button1 {
@@ -93,7 +93,7 @@ first-ul{
 }
 
 .disabled {
-  cursor: default;
+  cursor: not-allowed;;
   opacity: 0.6;
 }
 
