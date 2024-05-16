@@ -2,18 +2,7 @@
 
 # Welcome to Nayu's little website\
 
-## Check List
-- [x] make a Github account
-- [x] add a header to my page
-- [x] add an image banner
-- [x] make repository for home page
-- [x] make repository for hello world
-- [x] add a link to Hellow Worl website
-- [x] add to index.html of hello world website
-- [X] add a color to hello world website
-- [x] add an image/s to your hello world page
-- [x] add a hyperlink back to your main webpage on your hello world webpage
-- [x] Add a css stylesheet to your html files. 
+<button onclick="document.location= 'https://nhazuki.github.io/Fluffy-Pancake/'"; class="button bottun1";>Fluffy Pancakes</button>
 
 [Lemon Tart](https://nhazuki.github.io/Lemon-Tart/)
 
