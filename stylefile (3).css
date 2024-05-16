@@ -29,11 +29,11 @@ div.sticky {
   height: 5em;
   background-color: Wheat;
   width: 100%;
-  text-shadow: 5px 5px 5px #bf935a;
+  text-align: center;
   color: Black;
   font-family: Lucida Handwriting;
   font-size: 40px;
-  text-align: center;
+  text-shadow: 5px 5px 5px #bf935a;
 }
 
 h2{
