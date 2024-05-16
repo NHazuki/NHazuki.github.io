@@ -27,7 +27,6 @@ div.sticky {
   position: sticky;
   top: 0;
   background-color: Wheat;
-  width: 100%;
   text-align: center;
   color: Black;
   font-family: Lucida Handwriting;
@@ -94,6 +93,7 @@ li.dropdown{
     background-image: linear-gradient(0deg, #f3d6a5, transparent);
     bottom: 0px;
     height: 3em;
+    width: 100%;
     border-radius: 0;
 }
 
