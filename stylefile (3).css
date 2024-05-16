@@ -35,6 +35,10 @@ div.sticky {
   border-radius; 0;
 }
 
+img{
+  border-radius: 15px;
+}
+
 h2{
   font-family: Garamond;
   font-size: 23px;
