@@ -4,6 +4,9 @@
 
 <button onclick="document.location= 'https://nhazuki.github.io/Fluffy-Pancake/'"; class="button bottun1";>Fluffy Pancakes</button>
 
-[Custard Puding](https://nhazuki.github.io/Custard-Pudding/)
+[![Custard Puding](https://cdn-ak.f.st-hatena.com/images/fotolife/b/boku_5656/20230611/20230611145342.jpg)](https://nhazuki.github.io/Custard-Pudding/"Custard Pudding")
 
 [Fondant au Chocolate](https://nhazuki.github.io/fondant-au-chocolate/)
+
+[Layered Ganache Tart](https://nhazuki.github.io/2-Layered-Ganache-Tart/)
+
