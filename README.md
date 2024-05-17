@@ -1,4 +1,4 @@
-![Hedder](https://tigpig.com/wp-content/2012/04/120423_1600_tigpig_800_200_a.jpg)
+![Hedder](https://data.editor-ac.com/data/thumbnails/templates/08075c1baea0dd3e289d66c2f1a54541/08075c1baea0dd3e289d66c2f1a54541-1500.webp)
 
 # Nayu's Recipies!
 
