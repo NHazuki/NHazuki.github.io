@@ -9,6 +9,8 @@
 <a href="https://nhazuki.github.io/Caramelized-French-Toast/"><img src="https://staticx.antenna.jp/article_images/18223365_full_66fd7ede-6e04-4460-8635-1a6998192b5d_.jpeg" alt="Fluffy Pancakes" style="width: 200px; height: 133px;"></a>
 <a href="https://nhazuki.github.io/Fluffy-Pancake/"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/boku_5656/20220120/20220120003811.jpg" alt="Fluffy Pancakes" style="width: 200px; height: 133px;"></a>
 
+[Rubric](https://nhazuki.github.io/Rubric/)
+
 
 
 
