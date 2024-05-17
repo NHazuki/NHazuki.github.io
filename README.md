@@ -1,5 +1,3 @@
-![Hedder](https://data.editor-ac.com/data/thumbnails/templates/08075c1baea0dd3e289d66c2f1a54541/08075c1baea0dd3e289d66c2f1a54541-1500.webp)
-
 # Nayu's Recipies!
 
 <a href="https://nhazuki.github.io/Custard-Pudding/"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/boku_5656/20230611/20230611145342.jpg" alt="Fluffy Pancakes" style="width: 200px; height: 133px;"></a>
